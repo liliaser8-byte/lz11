@@ -1,0 +1,3 @@
+D:\Симестр 2\lz11\lz11\x64\Debug\lz11.vcxproj.AssemblyReference.cache
+D:\Симестр 2\lz11\lz11\x64\Debug\lz11.MyForm.resources
+D:\Симестр 2\lz11\lz11\x64\Debug\lz11.vcxproj.GenerateResource.cache
